@@ -1,0 +1,10 @@
+{
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": "\\.rkt$",
+                "cmd": "/Users/jamesyorston/formatracket.sh ${file}"
+            }
+        ]
+    }
+}
