@@ -15,9 +15,3 @@
 (define (f a)
   (sumofsquares (+ a 1) (* a 2)))
 (display (f 5))
-
-(define a 3)
-(define b 4)
-
-(* (cond ((> a b) a) ((< a b) b) (else -1)) (+ a 1))
-
