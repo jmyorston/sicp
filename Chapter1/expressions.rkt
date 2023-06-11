@@ -1,5 +1,4 @@
 #lang racket
-(require racket/pretty)
 (display
  (+ (* 3 5)
     (- 10 6)))
