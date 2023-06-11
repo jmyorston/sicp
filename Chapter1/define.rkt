@@ -1,0 +1,10 @@
+#lang racket
+(define size 2)
+(display size)
+(newline)
+(define pi 3.142)
+(define radius 10)
+(display (* pi (* radius radius)))
+(newline)
+(define circumference (* 2 pi radius))
+(display circumference)
