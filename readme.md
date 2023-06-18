@@ -1,5 +1,5 @@
 # SICP
-This repo is my attempt over time to work through the excercises in SICP to understand more about computer science.
+This repo is my attempt over time to work through the excercises in SICP.
 
 ## Set up tips
 
