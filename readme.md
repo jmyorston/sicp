@@ -17,6 +17,12 @@ I havent figured out how to format in vscode using magic-racket, but using the r
             }
         ]
 ```
+and in the formatracket.sh file:
+
+```bash
+#!/bin/sh
+raco fmt --width 40 $1 > temp.rkt && mv temp.rkt $1
+```
 
 ### __Running the excercises__
 and to run the procedures
