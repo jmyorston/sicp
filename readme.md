@@ -29,3 +29,6 @@ and to run the procedures
 ```bash
 racket sqrrt.rkt
 ```
+
+# Excercises:
+- [1.1](Chapter1/excercises/ex1-1.md) 
