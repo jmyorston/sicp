@@ -30,7 +30,7 @@ and to run the procedures
 racket sqrrt.rkt
 ```
 
-# Excercises:
+## Excercise solutions:
 - [1.1](Chapter1/excercises/ex1-1.md)
 - [1.2](Chapter1/excercises/ex1-2.md)
 - [1.3](Chapter1/excercises/ex1-3.md)
