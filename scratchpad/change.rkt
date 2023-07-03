@@ -1,7 +1,8 @@
 #lang racket
-; change
+
 (define (count-change amount)
   (cc amount 5))
+
 (define (cc amount kinds-of-coins)
   (cond
     [(= amount 0) 1]
@@ -14,6 +15,7 @@
                (first-denomination
                 kinds-of-coins))
             kinds-of-coins))]))
+
 (define (first-denomination
          kinds-of-coins)
   (cond
@@ -23,4 +25,4 @@
     [(= kinds-of-coins 4) 25]
     [(= kinds-of-coins 5) 50]))
 
-(displayln (count-change 100))
+(displayln (count-change 11))
