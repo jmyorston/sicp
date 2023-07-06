@@ -44,3 +44,8 @@ racket sqrrt.rkt
 - [Exercise 1.11: Writing Recursive and Iterative Functions for Series](Chapter1/exercises/ex1-11.md)
 - [Exercise 1.12: Implementing the Pascal's Triangle](Chapter1/exercises/ex1-12.md)
 - [Exercise 1.13: Proving Properties of Recursive Sequences: Fibonacci Sequence](Chapter1/exercises/ex1-13.md)
+- [Exercise 1.14: Analyzing the "count-change" Procedure](Chapter1/exercises/ex1-14.md)
+- [Exercise 1.15: Approximating the Cube Root](Chapter1/exercises/ex1-15.md)
+- [Exercise 1.16: Improving the Approximation of the Square Root](Chapter1/exercises/ex1-16.md)
+- [Exercise 1.17: Expanding the Exponentiation Function](Chapter1/exercises/ex1-17.md)
+
