@@ -49,3 +49,4 @@ racket sqrrt.rkt
 - [Exercise 1.16: Improving the Approximation of the Square Root](Chapter1/exercises/ex1-16.md)
 - [Exercise 1.17: Expanding the Exponentiation Function](Chapter1/exercises/ex1-17.md)
 - [Exercise 1.18: Logarithmic iterative multiplication procedure](Chapter1/exercises/ex1-18.md)
+- [Exercise 1.19: Algorithm to compute the Fibonacci numbers using an iterative process efficiently](Chapter1/exercises/ex1-19.md)
