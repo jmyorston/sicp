@@ -48,4 +48,4 @@ racket sqrrt.rkt
 - [Exercise 1.15: Approximating the Cube Root](Chapter1/exercises/ex1-15.md)
 - [Exercise 1.16: Improving the Approximation of the Square Root](Chapter1/exercises/ex1-16.md)
 - [Exercise 1.17: Expanding the Exponentiation Function](Chapter1/exercises/ex1-17.md)
-
+- [Exercise 1.18: Logarithmic iterative multiplication procedure](Chapter1/exercises/ex1-18.md)
