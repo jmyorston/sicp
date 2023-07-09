@@ -50,4 +50,5 @@ racket sqrrt.rkt
 - [Exercise 1.17: Expanding the Exponentiation Function](Chapter1/exercises/ex1-17.md)
 - [Exercise 1.18: Logarithmic iterative multiplication procedure](Chapter1/exercises/ex1-18.md)
 - [Exercise 1.19: Algorithm to compute the Fibonacci numbers using an iterative process efficiently](Chapter1/exercises/ex1-19.md)
-- [Exercise 1.20: The Impact of Evaluation Strategies on Procedure Efficiency](Chapter1/exercises/ex1-19.md)
+- [Exercise 1.20: The Impact of Evaluation Strategies on Procedure Efficiency](Chapter1/exercises/ex1-20.md)
+- [Exercise 1.21: Find the smallest divisor](Chapter1/exercises/ex1-21.md)
