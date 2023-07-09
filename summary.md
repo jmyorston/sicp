@@ -63,3 +63,61 @@ Key Takeaways:
 - The order of growth specifies an upper bound on the amount of resources a process requires as the input size increases. It's a simplified way to talk about how much time or space a process requires.
 - The order of growth helps us understand whether a process can handle larger inputs, and how much additional resources it needs as the input grows.
   - For example, the tree-recursive Fibonacci procedure from above has exponential time complexity due to the number of times it computes the same subproblems.
+
+
+### 1.2.4: Exponentiation
+
+Key Takeaways:
+- The section explores different strategies for computing exponents, providing examples of both iterative and recursive process solutions.
+- The concepts of "successive squaring" and "fast exponentiation" are introduced, which are more efficient approaches for computing exponents. 
+
+Code Snippet:
+```scheme
+(define (expt b n) ;; recursive procedure for calculating exponents
+  (if (= n 0)
+      1
+      (* b (expt b (- n 1)))))
+
+(define (fast-expt b n) ;; fast exponentiation using recursive procedure
+  (cond ((= n 0) 1)
+        ((even? n) (square (fast-expt b (/ n 2))))
+        (else (* b (fast-expt b (- n 1))))))
+```
+
+### 1.2.5: Greatest Common Divisors
+
+Key Takeaways:
+- This section discusses the method for computing the Greatest Common Divisor (GCD) of two integers using Euclid's Algorithm.
+- This is an example of an algorithm where the size of the problem is reduced at each step.
+
+Code Snippet:
+```scheme
+(define (gcd a b) ;; calculate greatest common divisor using Euclid's algorithm
+  (if (= b 0)
+      a
+      (gcd b (remainder a b))))
+```
+
+
+### 1.2.6: Example: Testing for Primality
+
+Key Takeaways:
+- Discusses a basic method for checking the primality of a number: testing divisibility by all integers up to the square root of the number.
+- Introduces the concepts of "randomness" and "probabilistic algorithms" by showing a method that tests the primality using Fermat's Little Theorem.
+
+Code Snippet:
+```scheme
+(define (prime? n) ;; simple procedure for checking primality
+  (define (divides? a b)
+    (= (remainder b a) 0))
+  (define (find-divisor n test-divisor)
+    (cond ((> (square test-divisor) n) n)
+          ((divides? test-divisor n) test-divisor)
+          (else (find-divisor n (+ test-divisor 1)))))
+  (= n (find-divisor n 2)))
+
+(define (fermat-test n) ;; probabilistic test for primality using Fermat's Little Theorem
+  (define (try-it a)
+    (= (expmod a n n) a))
+  (try-it (+ 1 (random (- n 1)))))
+```
