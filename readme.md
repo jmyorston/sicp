@@ -56,3 +56,4 @@ racket sqrrt.rkt
 - [Exercise 1.23: Optimise the smallest-divisor procedure](Chapter1/exercises/ex1-23.md)
 - [Exercise 1.24: The Fermat Test](Chapter1/exercises/ex1-24.md)
 - [Exercise 1.25: `expmod` using `fast-expt` and large intermediataries](Chapter1/exercises/ex1-24.md)
+- [Exercise 1.26: ]()
