@@ -61,6 +61,6 @@ racket sqrrt.rkt
 - [Exercise 1.25: `expmod` using `fast-expt` and large intermediataries](Chapter1/exercises/ex1-25.md)
 - [Exercise 1.26: Linear and logarithmic procedures](Chapter1/exercises/ex1-26.md)
 - [Exercise 1.27: Carmichael numbers](Chapter1/exercises/ex1-27.md)
-
+- [Exercise 1.28: Miller-rabin test for primality](Chapter1/exercises/ex1-28.md)
 
 </details>
