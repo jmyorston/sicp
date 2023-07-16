@@ -31,6 +31,9 @@ racket sqrrt.rkt
 ```
 
 ## Excercise solutions:
+<details>
+  <summary> Chapter 1 </summary>
+
 - [Exercise 1.1: Basics of Lisp/Scheme Expressions](Chapter1/exercises/ex1-1.md)
 - [Exercise 1.2: Complex Expressions and Operator Precedence](Chapter1/exercises/ex1-2.md)
 - [Exercise 1.3: Defining and Calling Simple Functions](Chapter1/exercises/ex1-3.md)
@@ -55,5 +58,9 @@ racket sqrrt.rkt
 - [Exercise 1.22: Use the smallest-divisor procedure to find the smallest divisor of each of the following numbers: 199, 1999, 19999](Chapter1/exercises/ex1-22.md)
 - [Exercise 1.23: Optimise the smallest-divisor procedure](Chapter1/exercises/ex1-23.md)
 - [Exercise 1.24: The Fermat Test](Chapter1/exercises/ex1-24.md)
-- [Exercise 1.25: `expmod` using `fast-expt` and large intermediataries](Chapter1/exercises/ex1-24.md)
-- [Exercise 1.26: ]()
+- [Exercise 1.25: `expmod` using `fast-expt` and large intermediataries](Chapter1/exercises/ex1-25.md)
+- [Exercise 1.26: Linear and logarithmic procedures](Chapter1/exercises/ex1-26.md)
+- [Exercise 1.27: Carmichael numbers](Chapter1/exercises/ex1-27.md)
+
+
+</details>
