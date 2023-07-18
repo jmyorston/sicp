@@ -64,7 +64,7 @@ racket sqrrt.rkt
 - [Exercise 1.28: Miller-rabin test for primality](Chapter1/exercises/ex1-28.md)
 - [Exercise 1.29: Simpsons Rule](Chapter1/exercises/ex1-29.md)
 - [Exercise 1.30: Iterative recursion for numerical integration](Chapter1/exercises/ex1-30.md)
-- [Exercise 1.31:](Chapter1/exercises/ex1-30.md)
+- [Exercise 1.31: Iterative and recursive product procedures](Chapter1/exercises/ex1-31.md)
 
 </details>
 
