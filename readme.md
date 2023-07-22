@@ -65,6 +65,7 @@ racket sqrrt.rkt
 - [Exercise 1.29: Simpsons Rule](Chapter1/exercises/ex1-29.md)
 - [Exercise 1.30: Iterative recursion for numerical integration](Chapter1/exercises/ex1-30.md)
 - [Exercise 1.31: Iterative and recursive product procedures](Chapter1/exercises/ex1-31.md)
+- [Exercise 1.32: Create recursive and iterative general accumulate procedure](Chapter1/exercises/ex1-32.md)
 
 </details>
 
