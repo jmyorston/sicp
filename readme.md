@@ -68,6 +68,7 @@ racket sqrrt.rkt
 - [Exercise 1.32: Create recursive and iterative general accumulate procedure](Chapter1/exercises/ex1-32.md)
 - [Exercise 1.33: Adding conditionals to the iterative general accumulate procedures](Chapter1/exercises/ex1-33.md)
 - [Exercise 1.34: Constructing Procedures Using Lambda](Chapter1/exercises/ex1-34.md)
+- [Exercise 1.35: Golden Ration fixed point procedure](Chapter1/exercises/ex1-35.md)
 
 
 </details>
