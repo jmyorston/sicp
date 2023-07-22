@@ -55,7 +55,7 @@ racket sqrrt.rkt
 - [Exercise 1.19: Algorithm to compute the Fibonacci numbers using an iterative process efficiently](Chapter1/exercises/ex1-19.md)
 - [Exercise 1.20: The Impact of Evaluation Strategies on Procedure Efficiency](Chapter1/exercises/ex1-20.md)
 - [Exercise 1.21: Find the smallest divisor](Chapter1/exercises/ex1-21.md)
-- [Exercise 1.22: Use the smallest-divisor procedure to find the smallest divisor of each of the following numbers: 199, 1999, 19999](Chapter1/exercises/ex1-22.md)
+- [Exercise 1.22: Use the smallest-divisor procedure to find the smallest divisors](Chapter1/exercises/ex1-22.md)
 - [Exercise 1.23: Optimise the smallest-divisor procedure](Chapter1/exercises/ex1-23.md)
 - [Exercise 1.24: The Fermat Test](Chapter1/exercises/ex1-24.md)
 - [Exercise 1.25: `expmod` using `fast-expt` and large intermediataries](Chapter1/exercises/ex1-25.md)
@@ -68,7 +68,8 @@ racket sqrrt.rkt
 - [Exercise 1.32: Create recursive and iterative general accumulate procedure](Chapter1/exercises/ex1-32.md)
 - [Exercise 1.33: Adding conditionals to the iterative general accumulate procedures](Chapter1/exercises/ex1-33.md)
 - [Exercise 1.34: Constructing Procedures Using Lambda](Chapter1/exercises/ex1-34.md)
-- [Exercise 1.35: Golden Ration fixed point procedure](Chapter1/exercises/ex1-35.md)
+- [Exercise 1.35: Golden Ratio fixed point procedure](Chapter1/exercises/ex1-35.md)
+- [Exercise 1.36: Using the fixed point procedure with logarithms](Chapter1/exercises/ex1-36.md)
 
 
 </details>
