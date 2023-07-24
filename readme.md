@@ -70,7 +70,7 @@ racket sqrrt.rkt
 - [Exercise 1.34: Constructing Procedures Using Lambda](Chapter1/exercises/ex1-34.md)
 - [Exercise 1.35: Golden Ratio fixed point procedure](Chapter1/exercises/ex1-35.md)
 - [Exercise 1.36: Using the fixed point procedure with logarithms](Chapter1/exercises/ex1-36.md)
-
+- [Exercise 1.37: Infinite continued fractions with let](Chapter1/exercises/ex1-37.md)
 
 </details>
 
