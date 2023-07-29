@@ -78,6 +78,7 @@ racket sqrrt.rkt
 - [Exercise 1.42: Compose function for simple composition](Chapter1/exercises/ex1-42.md)
 - [Exercise 1.43: Repeated functional composition](Chapter1/exercises/ex1-43.md)
 - [Exercise 1.44: N-Fold Smoothing of a Function](Chapter1/exercises/ex1-44.md)
+- [Exercise 1.45: Finding nth Roots with Fixed-Point Iteration and Average Damping](Chapter1/exercises/ex1-45.md)
 
 </details>
 
