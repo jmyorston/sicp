@@ -86,4 +86,7 @@ racket sqrrt.rkt
 <details>
   <summary> Chapter 2 </summary>
 
+- [Exercise 2.1: Make rational](Chapter1/exercises/ex1-46.md)
+
+
 </details>
