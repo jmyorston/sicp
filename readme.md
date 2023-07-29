@@ -73,6 +73,11 @@ racket sqrrt.rkt
 - [Exercise 1.37: Infinite continued fractions with let](Chapter1/exercises/ex1-37.md)
 - [Exercise 1.38: Euler's Continued Fraction Expansion](Chapter1/exercises/ex1-38.md)
 - [Exercise 1.39: Lamberts tangent function](Chapter1/exercises/ex1-39.md)
+- [Exercise 1.40: Cubic producure with newtons method](Chapter1/exercises/ex1-40.md)
+- [Exercise 1.41: Double procedure to apply a procedure twice](Chapter1/exercises/ex1-41.md)
+- [Exercise 1.42: Compose function for simple composition](Chapter1/exercises/ex1-42.md)
+- [Exercise 1.43: Repeated functional composition](Chapter1/exercises/ex1-43.md)
+- [Exercise 1.44: N-Fold Smoothing of a Function](Chapter1/exercises/ex1-44.md)
 
 </details>
 
