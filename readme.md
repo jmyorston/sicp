@@ -83,3 +83,7 @@ racket sqrrt.rkt
 
 </details>
 
+<details>
+  <summary> Chapter 2 </summary>
+
+</details>
