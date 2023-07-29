@@ -86,7 +86,7 @@ racket sqrrt.rkt
 <details>
   <summary> Chapter 2 </summary>
 
-- [Exercise 2.1: Make rational](Chapter1/exercises/ex1-46.md)
-
+- [Exercise 2.1: Make a rational constructor](Chapter2/exercises/ex2-1.md)
+- [Exercise 2.2: Calculating Midpoint of a Segment in Scheme](Chapter2/exercises/ex2-2.md)
 
 </details>
