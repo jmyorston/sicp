@@ -89,5 +89,7 @@ racket sqrrt.rkt
 - [Exercise 2.1: Make a rational constructor](Chapter2/exercises/ex2-1.md)
 - [Exercise 2.2: Calculating Midpoint of a Segment in Scheme](Chapter2/exercises/ex2-2.md)
 - [Exercise 2.3: Create rectangles](Chapter2/exercises/ex2-3.md)
+- [Exercise 2.4: Alternative CDR and CAR functions](Chapter2/exercises/ex2-4.md)
+- [Exercise 2.5: Cons, Car and CDR functions for $2^{a}3^{b}$](Chapter2/exercises/ex2-5.md)
 
 </details>
