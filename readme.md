@@ -107,5 +107,7 @@ racket sqrrt.rkt
 - [Exercise 2.12: `make-center-percent` interval constructor](Chapter2/exercises/ex2-12.md)
 - [Exercise 2.13: Approximate percentage tolerance of the product of two intervals](Chapter2/exercises/ex2-13.md)
 - [Exercise 2.14: Investigating the ambiguity of interval arithmetic](Chapter2/exercises/ex2-14.md)
+- [Exercise 2.15: Analyzing the Precision of Equivalent Algebraic Expressions in Interval Arithmetic ](Chapter2/exercises/ex2-15.md)
+- [Exercise 2.16: Challenges and Limitations of Interval Arithmetic](Chapter2/exercises/ex2-16.md)
 
 </details>
