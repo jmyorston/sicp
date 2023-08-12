@@ -104,7 +104,8 @@ racket sqrrt.rkt
 - [Exercise 2.9: width of `intervals`](Chapter2/exercises/ex2-9.md)
 - [Exercise 2.10: Divide by zero error handling for interval division](Chapter2/exercises/ex2-10.md)
 - [Exercise 2.11: Testing different scenarios for `mul-interval`](Chapter2/exercises/ex2-11.md)
-- [Exercise 2.12: Testing different scenarios for `mul-interval`](Chapter2/exercises/ex2-12.md)
+- [Exercise 2.12: `make-center-percent` interval constructor](Chapter2/exercises/ex2-12.md)
 - [Exercise 2.13: Approximate percentage tolerance of the product of two intervals](Chapter2/exercises/ex2-13.md)
+- [Exercise 2.14: Investigating the ambiguity of interval arithmetic](Chapter2/exercises/ex2-14.md)
 
 </details>
