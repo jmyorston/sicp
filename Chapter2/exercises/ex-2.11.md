@@ -19,6 +19,8 @@ Unfortunately, most of Alyssa's users are engineers. Real engineering situations
 ## Answer
 We can re-write the formula as such to capture the 9 difference scenarios - we know this because the minimum and maximum of the resulting interval will be among the products of the combination of the endpoints.
 
+Therefore, we can simplify `func-interval` by computing all four possible products and then selecting the smallest as the lower bound and the largest as the upper bound. This can be done using `min4` and `max4` helper functions:
+
 ```scheme
 (define (func-interval f x y)
   (define (min4 a b c d)
