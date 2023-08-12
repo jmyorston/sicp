@@ -94,6 +94,7 @@ racket sqrrt.rkt
 - [Exercise 2.6: Defining one and two using _church calculus_ ](Chapter2/exercises/ex2-6.md)
 - [Exercise 2.7: Define upper and lower bound selectors](Chapter2/exercises/ex2-7.md)
 - [Exercise 2.8: Define a procedure to calculate the difference between two `intervals`](Chapter2/exercises/ex2-8.md)
+- [Exercise 2.9: width of `intervals`](Chapter2/exercises/ex2-9.md)
 
 
 </details>
