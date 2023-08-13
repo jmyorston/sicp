@@ -109,5 +109,8 @@ racket sqrrt.rkt
 - [Exercise 2.14: Investigating the ambiguity of interval arithmetic](Chapter2/exercises/ex2-14.md)
 - [Exercise 2.15: Analyzing the Precision of Equivalent Algebraic Expressions in Interval Arithmetic ](Chapter2/exercises/ex2-15.md)
 - [Exercise 2.16: Challenges and Limitations of Interval Arithmetic](Chapter2/exercises/ex2-16.md)
+- [Exercise 2.17: Last pair procedure](Chapter2/exercises/ex2-17.md)
+- [Exercise 2.18: List reverse procedure](Chapter2/exercises/ex2-18.md)
+- [Exercise 2.19: modifying the count-change procedure to handle currency denominations](Chapter2/exercises/ex2-19.md)
 
 </details>

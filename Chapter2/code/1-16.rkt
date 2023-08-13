@@ -5,7 +5,6 @@
 (define (lower-bound x)
   (min (cdr x) (car x)))
 
-
 (define (upper-bound x)
   (max (cdr x) (car x)))
 
