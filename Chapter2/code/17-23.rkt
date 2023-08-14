@@ -102,7 +102,7 @@
 ; '(2 4 6)
 
 ; -------------------------------------
-;           Exercise 2.21
+;            Exercise 2.21             
 ; -------------------------------------
 ; sq helper
 (define (sq x)
@@ -125,6 +125,30 @@
 
 ; '(1 4 9 16)
 
+; -------------------------------------
+;            Exercise 2.22             
+; -------------------------------------
+(define (square-list-louis items)
+  (define (iter things answer)
+    (displayln things)
+    (displayln answer)
+    (if (null? things)
+        answer
+        (iter (cdr things)
+              (cons (sq (car things))
+                    answer))))
+  (iter items '()))
+
+(square-list-louis '(1 2 3 4))
 
 
+(define (square-list-louis-two items)
+  (define (iter things answer)
+    (if (null? things)
+        answer
+        (iter (cdr things)
+              (cons answer
+                    (sq (car things))))))
+  (iter items '()))
 
+(square-list-louis-two '(1 2 3 4))
