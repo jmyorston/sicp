@@ -112,5 +112,7 @@ racket sqrrt.rkt
 - [Exercise 2.17: Last pair procedure](Chapter2/exercises/ex2-17.md)
 - [Exercise 2.18: List reverse procedure](Chapter2/exercises/ex2-18.md)
 - [Exercise 2.19: modifying the count-change procedure to handle currency denominations](Chapter2/exercises/ex2-19.md)
+- [Exercise 2.20: Using dot-tail notation with procedures](Chapter2/exercises/ex2-20.md)
+- [Exercise 2.21: Using map to square a list of integers](Chapter2/exercises/ex2-21.md)
 
 </details>
