@@ -114,6 +114,8 @@ racket sqrrt.rkt
 - [Exercise 2.19: modifying the count-change procedure to handle currency denominations](Chapter2/exercises/ex2-19.md)
 - [Exercise 2.20: Using dot-tail notation with procedures](Chapter2/exercises/ex2-20.md)
 - [Exercise 2.21: Using map to square a list of integers](Chapter2/exercises/ex2-21.md)
-- [Exercise 2.21: List construction with iteration](Chapter2/exercises/ex2-22.md)
+- [Exercise 2.22: List construction with iteration](Chapter2/exercises/ex2-22.md)
+- [Exercise 2.23: `for-each` procedure](Chapter2/exercises/ex2-23.md)
+- [Exercise 2.24: Representing lists of lists](Chapter2/exercises/ex2-24.md)
 
 </details>

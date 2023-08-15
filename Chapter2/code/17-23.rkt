@@ -152,3 +152,20 @@
   (iter items '()))
 
 (square-list-louis-two '(1 2 3 4))
+
+; -------------------------------------
+;            Exercise 2.23             
+; -------------------------------------
+
+(define (for-each f x)
+  (if (null? x)
+      #t
+      (
+       (λ ()
+        (f (car x))
+        (for-each f (cdr x)))
+       )))
+
+(for-each 
+ (lambda (x) (newline) (display x))
+ (list 57 321 88))
