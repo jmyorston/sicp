@@ -120,5 +120,8 @@ racket sqrrt.rkt
 - [Exercise 2.25: Using car and cdr to traverse nested lists](Chapter2/exercises/ex2-25.md)
 - [Exercise 2.26: Difference between `cons`, `append` and `list` for grouping lists](Chapter2/exercises/ex2-26.md)
 - [Exercise 2.27: `deep-reverse` procedure to re-order lists](Chapter2/exercises/ex2-27.md)
+- [Exercise 2.28: `fringe` procedure to simplify lists](Chapter2/exercises/ex2-28.md)
+- [Exercise 2.29: Binary mobile torque balance](Chapter2/exercises/ex2-29.md)
+- [Exercise 2.30: `square-tree` procedure](Chapter2/exercises/ex2-30.md)
 
 </details>
