@@ -117,5 +117,8 @@ racket sqrrt.rkt
 - [Exercise 2.22: List construction with iteration](Chapter2/exercises/ex2-22.md)
 - [Exercise 2.23: `for-each` procedure](Chapter2/exercises/ex2-23.md)
 - [Exercise 2.24: Representing lists of lists](Chapter2/exercises/ex2-24.md)
+- [Exercise 2.25: Using car and cdr to traverse nested lists](Chapter2/exercises/ex2-25.md)
+- [Exercise 2.26: Difference between `cons`, `append` and `list` for grouping lists](Chapter2/exercises/ex2-26.md)
+- [Exercise 2.27: `deep-reverse` procedure to re-order lists](Chapter2/exercises/ex2-27.md)
 
 </details>
