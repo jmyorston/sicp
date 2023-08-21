@@ -179,3 +179,32 @@
 ;           Exercise 2.31
 ; -------------------------------------
 (displayln "*** Exercise 2.31 ***")
+
+(define (square-tree-map tree)
+  (tree-map sq tree))
+
+(define (tree-map f t)
+  (cond ((null? t) '())
+        ((pair? t)(cons (tree-map f (car t))
+                        (tree-map f (cdr t))))
+        (else (f t))))
+                   
+
+(square-tree-map  (list 1
+                        (list 2 (list 3 4) 5)
+                        (list 6 7)))
+
+; -------------------------------------
+;           Exercise 2.32
+; -------------------------------------
+(displayln "*** Exercise 2.32 ***")
+
+(define (subsets s)
+  (if (null? s)
+      (list '())
+      (let ((rest (subsets (cdr s))))
+        (append rest (map
+                      (λ (sub)(cons (car s) sub))
+                      rest)))))
+
+(subsets '(1 2 3))

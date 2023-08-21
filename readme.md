@@ -123,5 +123,7 @@ racket sqrrt.rkt
 - [Exercise 2.28: `fringe` procedure to simplify lists](Chapter2/exercises/ex2-28.md)
 - [Exercise 2.29: Binary mobile torque balance](Chapter2/exercises/ex2-29.md)
 - [Exercise 2.30: `square-tree` procedure](Chapter2/exercises/ex2-30.md)
+- [Exercise 2.31: refactoring `square-tree` procedure to be `tree-map`](Chapter2/exercises/ex2-31.md)
+- [Exercise 2.32: Procedure to create subsets of a list](Chapter2/exercises/ex2-32.md)
 
 </details>
