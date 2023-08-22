@@ -11,6 +11,12 @@
 (define (square x)
   (* x x))
 
+(define (enumerate-tree tree)
+  (cond ((null? tree) null)
+        ((not (pair? tree)) (list tree))
+        (else (append (enumerate-tree (car tree))
+                      (enumerate-tree (cdr tree))))))
+
 ; -------------------------------------
 ;           Exercise 2.33
 ; -------------------------------------
@@ -40,4 +46,25 @@
 ; -------------------------------------
 ;           Exercise 2.34
 ; -------------------------------------
-(displayln "*** Exercise 2.33 ***")
+(displayln "*** Exercise 2.34 ***")
+
+(define (horner-eval x coefficient-sequence)
+  (accumulate (λ (this-coeff higher-terms)(+ (* x higher-terms) this-coeff))
+              0
+              coefficient-sequence))
+
+(horner-eval 2 (list 1 3 0 5 0 1))
+
+; -------------------------------------
+;           Exercise 2.35
+; -------------------------------------
+(displayln "*** Exercise 2.35 ***")
+
+(define (count-leaves t)
+  (accumulate +
+              0
+              (map
+               (λ (x) (if (pair? x) 0 1))
+               (enumerate-tree t))))
+
+(count-leaves (list 1 2 (list 3 4 5) 4 5 (list 1 (list 3))))
