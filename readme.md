@@ -125,5 +125,8 @@ racket sqrrt.rkt
 - [Exercise 2.30: `square-tree` procedure](Chapter2/exercises/ex2-30.md)
 - [Exercise 2.31: refactoring `square-tree` procedure to be `tree-map`](Chapter2/exercises/ex2-31.md)
 - [Exercise 2.32: Procedure to create subsets of a list](Chapter2/exercises/ex2-32.md)
+- [Exercise 2.33: list-manipulation operations as accumulation procedures](Chapter2/exercises/ex2-33.md)
+- [Exercise 2.34: Horner's rule procedure](Chapter2/exercises/ex2-34.md)
+- [Exercise 2.35: `count-leaves` accumulator procedure](Chapter2/exercises/ex2-35.md)
 
 </details>
