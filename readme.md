@@ -132,5 +132,7 @@ racket sqrrt.rkt
 - [Exercise 2.37: representing vectors as sequences](Chapter2/exercises/ex2-37.md)
 - [Exercise 2.38: `fold-right` and `fold-left` procedures](Chapter2/exercises/ex2-38.md)
 - [Exercise 2.39: `reverse` procedure with `fold-right` & `fold-left`](Chapter2/exercises/ex2-39.md)
+- [Exercise 2.40: simplify the `make-sum-pair` procedure](Chapter2/exercises/ex2-40.md)
+- [Exercise 2.41: procedure to find all ordered triples of distinct positive integers $i$, $j$, and $k$ less than or equal to a given integer $n$ and $sum$ to given integer $s$.](Chapter2/exercises/ex2-41.md)
 
 </details>

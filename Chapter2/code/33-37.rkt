@@ -93,7 +93,7 @@
 (displayln "*** Exercise 2.37 ***")
 
 
-(define (dot-product v w)
+(define (dot-product v w)  
   (accumulate + 0 (map * 'v w)))
 
 (define (matrix-*-vector m v)
@@ -105,9 +105,4 @@
 (define (matrix-*-matrix m n)
   (let ((cols (transpose n)))
     (map (λ (x) (map (λ (y) (dot-product x y)) cols)) m)))
-
-
-
-
-
 
