@@ -106,12 +106,6 @@
   (let ((cols (transpose n)))
     (map (λ (x) (map (λ (y) (dot-product x y)) cols)) m)))
 
-(matrix-*-vector s1 v1)
-
-
-
-
-
 
 
 

@@ -128,5 +128,9 @@ racket sqrrt.rkt
 - [Exercise 2.33: list-manipulation operations as accumulation procedures](Chapter2/exercises/ex2-33.md)
 - [Exercise 2.34: Horner's rule procedure](Chapter2/exercises/ex2-34.md)
 - [Exercise 2.35: `count-leaves` accumulator procedure](Chapter2/exercises/ex2-35.md)
+- [Exercise 2.36: `accumulate-n` procedure](Chapter2/exercises/ex2-36.md)
+- [Exercise 2.37: representing vectors as sequences](Chapter2/exercises/ex2-37.md)
+- [Exercise 2.38: `fold-right` and `fold-left` procedures](Chapter2/exercises/ex2-38.md)
+- [Exercise 2.39: `reverse` procedure with `fold-right` & `fold-left`](Chapter2/exercises/ex2-39.md)
 
 </details>
